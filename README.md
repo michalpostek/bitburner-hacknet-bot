@@ -24,7 +24,7 @@
 <ol>
   <li>Run the terminal</li>
   <li>Type <code>nano hacknet-bot.js</code></li>
-  <li>Copy and paste the code below into this file</li>
+  <li>Copy the code from main.js file and paste into file you just created</li>
   <li>Save the file</li>
   <li>Back to the terminal</li>
   <li>Type <code>run hacknet-bot.js</code></li>
